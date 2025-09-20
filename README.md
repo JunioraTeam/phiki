@@ -9,7 +9,7 @@ The name and public API of Phiki is heavily inspired by [Shiki](https://shiki.st
 Install Phiki via Composer:
 
 ```sh
-composer require phiki/phiki
+composer require juniora/phiki
 ```
 
 ## Documentation
